@@ -1,6 +1,6 @@
 # TrebleCheck
 
-## Canonical Source
+## Source Code
 Note: Orignal Souce code of the owner is located at https://gitlab.com/TrebleInfo/TrebleInfo
 
 ## Contributing
@@ -9,7 +9,7 @@ Code improvements are welcome! Just submit a merge request to this project.
 
 ## Translating
 
-See https://gitlab.com/TrebleInfo/TrebleInfo/-/blob/dev/TRANSLATING.md
+Just make a fork, then make values-xx folder where xx is your language, then copy strings from values folder, and finally make pull request.
 
 ## Download
 

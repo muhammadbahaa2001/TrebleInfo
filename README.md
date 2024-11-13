@@ -1,8 +1,7 @@
 # TrebleCheck
 
 ## Canonical Source
-
-Souce code is located at https://gitlab.com/TrebleInfo/TrebleInfo
+Note: Orignal Souce code of the owner is located at https://gitlab.com/TrebleInfo/TrebleInfo
 
 ## Contributing
 
